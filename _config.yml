@@ -1,0 +1,33 @@
+layout_spectrum: 0.2781322950905761
+typography_spectrum: 0.03150348541631114
+color:
+  brandStrength: 0.5063720967131897
+  lightness: 0.8145612268657009
+  saturation: 0.3679494413371096
+  rhythmicContrast: 0.2077149286810862
+  brandColors:
+    - '#3084C2'
+    - '#B4B4B4'
+    - '#000000'
+    - '#183538'
+    - '#F9DA33'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: macbookpro.ist
+content: []
+title: long live the macbook pro
+description: and all things tech-related
+url: 'https://macbookpro.ist'
+purpose:
+  - type: internal
+    label: Father's Day DEALS
+    item: 2f2b8bde-859e-49f6-8f5e-ee84cfdf732f
+analytics:
+  google: UA-101080960-1
+  twitter: 'https://twitter.com/ugivme'
+github: true
