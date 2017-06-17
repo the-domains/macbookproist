@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Get ‘em while you can!
-dateModified: '2017-06-17T18:38:59.313Z'
-datePublished: '2017-06-17T18:38:59.883Z'
+dateModified: '2017-06-17T18:39:14.857Z'
+datePublished: '2017-06-17T18:39:15.318Z'
 title: The Best Gift Ideas for Father’s Day
 author: []
 publisher: {}
