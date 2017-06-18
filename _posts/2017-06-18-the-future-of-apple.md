@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T19:58:42.662Z'
-datePublished: '2017-06-18T19:58:43.149Z'
+dateModified: '2017-06-18T20:01:02.173Z'
+datePublished: '2017-06-18T20:01:02.993Z'
 title: The Future of Apple
 author: []
 publisher: {}
@@ -42,9 +42,9 @@ For about ten years, I found a way to spend no more than around $1000 every time
 
 So right now, buying an older model is both better and less expensive. Now, the $1000 spend limit that I used to have is no longer a reality, but starting at about $1400 up to $2000, you can get everything you need and not have to pay the starting price for new MacBook Pro because right now they are all priced well above $2000\.
 
-Example: I just bought one of these myself. I need high specs for my work, but didn't want to pay $2800 for the cheapest quad-core with 512GB of ssd. So found this late 2013 model with the same specs for almost half-price.
+Example: I just bought one of these myself. I need high specs for my work, but didn't want to pay $2800 for the cheapest quad-core with 512GB of ssd. So found this model with the same specs for almost half-price.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUstu2zAQvOcrDB14c0TLttw4povmkj4QpICR9kgw5FIiTJEKuY7invIh7c_lS0LRDtA97c4uZwa73CjzPIl4tMDeXv8ivOBUWNO4tQSHEK7fXv9tLy42RgfRwXmwGIzCdj2raP9y3YJpWlxXi7EoJp0IjXF5gBX0oz4NZSDK4K01rmGF88Uk8z76oCCc2kGyoiyHOHXiUnTij3dToeIxInSX0ndlom4AY_n0eQfh2Uj4BSEa71hF6Yp-qipy7-D7js3IfQ9B4Ni6BfyivmJnyZ0Ie8CfVkhgDzsS_SGkTEgSQLMnzWPPRTSOo7FEKI7HHlgfvDpI5Mn0nmAQcp_cc6OYiK0VThk_rSjpMnOfmU--E2czqiedDHdpo-yG0tvq7mb14zcZheL_wCjwTbElpUJrWM2XVbXQs1mt54srvdRLoPSqVjWJrR_4eWcYDpAfct-Dizx5dzDwwTjlB6aFjUD6kNbEpbc-sHkOggbtB0RpXUtKHptzrXMU49nL0923mzJ9k-07nIrDQA" height="320" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUsFu2zAMvecrAh90S604beqmUYbt0m3Y0AFBt2EXgZFoW4gsuRJTNzv1Q7af65dMdlJgPImP1HuPlNbaPE0jHS2K15c_hM80A2tqt1LoCMPt68vfzWSyNlWAFs-NWW80Nat5wbvn2wZN3dCquBySbNpCqI0bG0TG3_JT0whEFby1xtUicz6bjrw7HzSGUzkokeV5H2cOLqCF397NQMdjJGwvlG_zRF0jxfzx3RbDk1H4HUM03omC82teFgW7d_h5K-bsvsMANJTukN7rj9Ra9hXCHumbBYXiYcuiP4R0AsUCVuKxkrGTEI2TZCwDLenYoeiC1wdFMpneMwqg9sm9NFpAbCw4bfys4KwdmbuR-eQ7cdaDetIZ4TZtVHzg_Oevu4cv5Q82CMX_gUHgkxbFrljya7hc3JSo55qrxVzN-VVxU0FZXqUBY-N7ed4ZhQOOF6Xv0EWZvDvsZW-c9r2owEZkXUhrkspbH8RiDEaG7BvE-XKpONvV57waI9tMpinW-enpN-s8_ZTNPyDAxAU" height="320" style=""></iframe>
 
 Look at those specs, and compare to:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d674824e-7e4f-47f7-aff2-7ebf3791009e.png)
