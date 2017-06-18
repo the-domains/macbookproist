@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T19:50:24.430Z'
-datePublished: '2017-06-18T19:50:25.338Z'
+dateModified: '2017-06-18T19:50:56.952Z'
+datePublished: '2017-06-18T19:50:57.519Z'
 title: The Future of Apple
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ And seeing as we at [macbookpro.ist][3] hold the MacBook Pro in very high regard
 
 ## For Developers - the only game in town
 
-Even though they launched [Windows Subsystem for Linux][4], and that is a huge step in the right direction, my attempts at building a linux dev box to deploy to AWS Debian failed miserably when it became clear that the arrow keys for the LeNovo I found were not mapping correctly inside WSL; so you are using vim inside linux, and you open up the .bash\_profile to add some lines of code and [the scroll keys don't work][5]. BOOM. A win for Mac. My [Engine Yard][6] account can spawn a terminal directly from the browser. Try that, Windows.
+Even though they launched [Windows Subsystem for Linux][4], and that is a huge step in the right direction, my attempts at building a linux dev box to deploy to AWS Debian failed miserably when it became clear that the arrow keys for the Lenovo I found were not mapping correctly inside WSL; so you are using vim inside linux, and you open up the .bash\_profile to add some lines of code and [the scroll keys don't work][5]. BOOM. A win for Mac. My [Engine Yard][6] account can spawn a terminal directly from the browser. Try that, Windows.
 
 Look - I know there are plenty of Windows developers out there, and it does seem like a lot of Machine Learning stuff I see on [Udemy][7] shows someone running Windows. But my world is still basically web applications on AWS doing fancy stuff, and you need a MacBook Pro to work on that. It's a fact. That or just running a Linux distro but as I will discuss a bit later, the Mac ecosystem is still a big positive.
 
