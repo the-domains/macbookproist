@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T20:01:02.173Z'
-datePublished: '2017-06-18T20:01:02.993Z'
+dateModified: '2017-06-18T20:01:04.367Z'
+datePublished: '2017-06-18T20:01:05.073Z'
 title: The Future of Apple
 author: []
 publisher: {}
