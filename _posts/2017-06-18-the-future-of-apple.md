@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T20:07:43.936Z'
-datePublished: '2017-06-18T20:07:44.534Z'
+dateModified: '2017-06-18T20:08:26.417Z'
+datePublished: '2017-06-18T20:08:27.214Z'
 title: The Future of Apple
 author: []
 publisher: {}
@@ -44,7 +44,7 @@ So right now, buying an older model is both better and less expensive. Now, the 
 
 Example: I just bought one of these myself. I need high specs for my work, but didn't want to pay $2800 for the cheapest quad-core with 512GB of ssd. So found this model with the same specs for almost half-price.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUl1v2yAUfc-vsPzAW2pC2tRNTabtpdu0qZOirtNeEIFrGwWDCzdzs18_bKdTrwTifnDO4XIrlAcLWcSzBZ6jzgajsd2uKe1f7zOEV1xKaxq3zRQ4hHCf7xYVhl2FelcV45bWojJ1kN1_mBmDsRGjBdO0uGXXo5NnnQyNcVMBz-mbPxdNgaiCt9a4hufO59mEe_BBQ5jTQfG8KIa4dPJKdvKvd0up4zkidFfKd0WCbgBj8fJhD-GPUfATQjTecUbpLS0ZI48Ovu75ijz2ECSOqQfAj_ozdpZ8l-EI-MNKBfxpT6I_hXSSigSo-UstYi9kNE6gsURqgeceeB-8PikUSfSRYJDqmNQLo7mMrZVOG79klHQTcj8hz7oTZjOyJ54p3KUG80-U_vr98PStfCYjUXwfGAm-aM4ObENv5fX6rgS90lStV2pFb9hdLcvyJj0wtn4Ql55hOMF0UfgeXBRJu4NBDMZpP_Ba2gikD6lNQnnrA19PRtCgfQtRutkoSg7Nxa8nS3OQJauK-esvw1Ck0VikfRyq3T-09c--" height="320" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUsFu2zAMvecrDB90S60obeqmVobt0m3Y0AFBt2EXQZFoR4gsuRIzN_36yXayDcN4EMRH8j2KYoVyZyGLeLLAc9RZbzTu10tKu5f7DOEF59Kaxq0zBQ4h3OebWYVhU11SeT7m5puqQD3C_-CzytRBtr81JgHGBoE9mGaPa3Y9OHnWytAYdy6nF39KGoGogrfWuIbnzufZyLvzQUOYwkHxvCj6OHfySrby1bu51PEUEdor5dsiUTeAsXh-s4Xw0yj4CiEa7zij9JaWjJFHBx-3fEEeOwgSh9AD4Fv9HltLPstwAPxipQL-tCXRH0O6SUUC1Py5FrETMhon0FgitcBTB7wLXh8VitT0gWCQ6pC6F0ZzGfdWOm38nFHSjszdyDz1nTibQT3pjHCbps_fUfr9x8PTp_IbGYTi38Ag8EFztmMreiuvl3cl6IWmarlQC3rD7mpZljfpgXHve3GeGYYjjIXCd-CiSL076EVvnPY9r6WNQLqQxiSUtz7w5WgEDdoLROlqpSjZNWe_Hi39epasKqav_7Mb_1uZIq3TLJ3DIm5-AZeS32U" height="320" style=""></iframe>
 
 Look at those specs, and compare to:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d674824e-7e4f-47f7-aff2-7ebf3791009e.png)
