@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T19:48:40.883Z'
-datePublished: '2017-06-18T19:48:41.424Z'
+dateModified: '2017-06-18T19:50:24.430Z'
+datePublished: '2017-06-18T19:50:25.338Z'
 title: The Future of Apple
 author: []
 publisher: {}
@@ -23,13 +23,13 @@ So this last launch of the MacBook Pro was a bit of a dud. The new keyboard mech
 
 And apparently, the issue with the new keyboard is that the keys don't feel uniform, and that they [make different sounds][2], which is very odd.
 
-And seeing as we at macbookpro.ist hold the MacBook Pro in very high regard, we do not take these things lightly. I will proceed to make the point that despite a rough ride at the moment, here at macbookpro.ist we don't think the MacBook Pro is going anywhere soon. Here is why.
+And seeing as we at [macbookpro.ist][3] hold the MacBook Pro in very high regard, we do not take these things lightly. I will proceed to make the point that despite a rough ride at the moment, here at macbookpro.ist we don't think the MacBook Pro is going anywhere soon. Here is why.
 
 ## For Developers - the only game in town
 
-Even though they launched [Windows Subsystem for Linux][3], and that is a huge step in the right direction, my attempts at building a linux dev box to deploy to AWS Debian failed miserably when it became clear that the arrow keys for the LeNovo I found were not mapping correctly inside WSL; so you are using vim inside linux, and you open up the .bash\_profile to add some lines of code and [the scroll keys don't work][4]. BOOM. A win for Mac. My [Engine Yard][5] account can spawn a terminal directly from the browser. Try that, Windows.
+Even though they launched [Windows Subsystem for Linux][4], and that is a huge step in the right direction, my attempts at building a linux dev box to deploy to AWS Debian failed miserably when it became clear that the arrow keys for the LeNovo I found were not mapping correctly inside WSL; so you are using vim inside linux, and you open up the .bash\_profile to add some lines of code and [the scroll keys don't work][5]. BOOM. A win for Mac. My [Engine Yard][6] account can spawn a terminal directly from the browser. Try that, Windows.
 
-Look - I know there are plenty of Windows developers out there, and it does seem like a lot of Machine Learning stuff I see on [Udemy][6] shows someone running Windows. But my world is still basically web applications on AWS doing fancy stuff, and you need a MacBook Pro to work on that. It's a fact. That or just running a Linux distro but as I will discuss a bit later, the Mac ecosystem is still a big positive.
+Look - I know there are plenty of Windows developers out there, and it does seem like a lot of Machine Learning stuff I see on [Udemy][7] shows someone running Windows. But my world is still basically web applications on AWS doing fancy stuff, and you need a MacBook Pro to work on that. It's a fact. That or just running a Linux distro but as I will discuss a bit later, the Mac ecosystem is still a big positive.
 
 ## You can still find the right model at a good deal
 
@@ -46,21 +46,23 @@ Example: I just bought one of these myself. I need high specs for my work, but d
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUstu2zAQvOcrDB14c0TLttw4povmkj4QpICR9kgw5FIiTJEKuY7invIh7c_lS0LRDtA97c4uZwa73CjzPIl4tMDeXv8ivOBUWNO4tQSHEK7fXv9tLy42RgfRwXmwGIzCdj2raP9y3YJpWlxXi7EoJp0IjXF5gBX0oz4NZSDK4K01rmGF88Uk8z76oCCc2kGyoiyHOHXiUnTij3dToeIxInSX0ndlom4AY_n0eQfh2Uj4BSEa71hF6Yp-qipy7-D7js3IfQ9B4Ni6BfyivmJnyZ0Ie8CfVkhgDzsS_SGkTEgSQLMnzWPPRTSOo7FEKI7HHlgfvDpI5Mn0nmAQcp_cc6OYiK0VThk_rSjpMnOfmU--E2czqiedDHdpo-yG0tvq7mb14zcZheL_wCjwTbElpUJrWM2XVbXQs1mt54srvdRLoPSqVjWJrR_4eWcYDpAfct-Dizx5dzDwwTjlB6aFjUD6kNbEpbc-sHkOggbtB0RpXUtKHptzrXMU49nL0923mzJ9k-07nIrDQA" height="320" style=""></iframe>
 
 Look at those specs, and compare to:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d674824e-7e4f-47f7-aff2-7ebf3791009e.png)
 
-3 - ecosystem still wins - Logic is a killer
+## Ecosystem still wins - and Logic is a killer
 
 Finally, the thing about Apple is that for the most part, the ecosystem is great. You know what I love about Apple?
 
-You only buy once. Seriously, I have bought the same software twice so many times in the past. The Apple Store keeps that from happening. Also, iCloud is nice. I use my iCloud folder for basically everything now, and it means I don't really have to build my new machines from a previous image. I do clean install every time because everything I need comes along with iCloud anyway.
+You only buy once. Seriously, I have bought the same software twice so many times in the past. The Apple Store keeps that from happening. Also, iCloud is nice. I use my iCloud folder for basically everything now, and it means I don't really have to build my new machines from a previous image. I do a clean install every time because everything I need comes along with iCloud anyway.
 
 And finally, Logic is a fantastic product. A lot of my producer friends are using it now. It is Mac-only, and is also a great tool for songwriters.
 
-So if you hear someone talking shit about the new MacBook Pros, just remember one thing: when they finally get around to revamping the current line, those old models are going to go for cheap. And when they do, you can find them here.
+So if you hear someone talking shit about the new MacBook Pros, just remember one thing: when they finally get around to revamping the current line, those old models are going to go for cheap. And when they do, you can find them [here][3].
 
 [0]: https://9to5mac.com/2016/11/08/hands-on-late-2016-13-inch-macbook-pro-without-touch-bar-video/
 [1]: https://www.jeffgeerling.com/blog/2017/i-returned-my-2016-macbook-pro-touch-bar
 [2]: https://www.macrumors.com/2017/02/21/2016-macbook-pro-keyboard-issues/
-[3]: https://blogs.msdn.microsoft.com/wsl/
-[4]: https://github.com/Microsoft/BashOnWindows/issues/111
-[5]: https://cloud.engineyard.com/
-[6]: https://www.udemy.com/machinelearning/learn/v4/overview
+[3]: http://macbookpro.ist/
+[4]: https://blogs.msdn.microsoft.com/wsl/
+[5]: https://github.com/Microsoft/BashOnWindows/issues/111
+[6]: https://cloud.engineyard.com/
+[7]: https://www.udemy.com/machinelearning/learn/v4/overview
