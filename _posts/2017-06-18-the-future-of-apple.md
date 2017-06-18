@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T20:08:26.417Z'
-datePublished: '2017-06-18T20:08:27.214Z'
+dateModified: '2017-06-18T20:31:12.809Z'
+datePublished: '2017-06-18T20:31:13.643Z'
 title: The Future of Apple
 author: []
 publisher: {}
@@ -57,7 +57,7 @@ You only buy once. Seriously, I have bought the same software twice so many time
 
 And finally, Logic is a fantastic product. A lot of my producer friends are using it now. It is Mac-only, and is also a great tool for songwriters.
 
-So if you hear someone talking shit about the new MacBook Pros, just remember one thing: when they finally get around to revamping the current line, those old models are going to go for cheap. And when they do, you can find them [here][3].
+So if you hear someone talking shit about the new MacBook Pros, just remember one thing: when they finally get around to revamping the current line, those old models are going to go for cheap. And when they do, you can find them at [macbookpro.ist.][3]
 
 [0]: https://9to5mac.com/2016/11/08/hands-on-late-2016-13-inch-macbook-pro-without-touch-bar-video/
 [1]: https://www.jeffgeerling.com/blog/2017/i-returned-my-2016-macbook-pro-touch-bar
