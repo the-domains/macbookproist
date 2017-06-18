@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T19:50:56.952Z'
-datePublished: '2017-06-18T19:50:57.519Z'
+dateModified: '2017-06-18T19:56:06.570Z'
+datePublished: '2017-06-18T19:56:07.148Z'
 title: The Future of Apple
 author: []
 publisher: {}
@@ -27,14 +27,15 @@ And seeing as we at [macbookpro.ist][3] hold the MacBook Pro in very high regard
 
 ## For Developers - the only game in town
 
-Even though they launched [Windows Subsystem for Linux][4], and that is a huge step in the right direction, my attempts at building a linux dev box to deploy to AWS Debian failed miserably when it became clear that the arrow keys for the Lenovo I found were not mapping correctly inside WSL; so you are using vim inside linux, and you open up the .bash\_profile to add some lines of code and [the scroll keys don't work][5]. BOOM. A win for Mac. My [Engine Yard][6] account can spawn a terminal directly from the browser. Try that, Windows.
+Even though they launched [Windows Subsystem for Linux][4], and that is a huge step in the right direction, my attempts at building a linux dev box to deploy to AWS Debian failed miserably when it became clear that the arrow keys for the Lenovo I found were not mapping correctly inside WSL; so you are using vim inside linux, and you open up the _.bash\_profile_ to add some lines of code and [the scroll keys don't work][5]. BOOM. A win for Mac. My [Engine Yard][6] account can spawn a terminal directly from the browser. Try that, Windows.
 
 Look - I know there are plenty of Windows developers out there, and it does seem like a lot of Machine Learning stuff I see on [Udemy][7] shows someone running Windows. But my world is still basically web applications on AWS doing fancy stuff, and you need a MacBook Pro to work on that. It's a fact. That or just running a Linux distro but as I will discuss a bit later, the Mac ecosystem is still a big positive.
 
 ## You can still find the right model at a good deal
 
-For about ten years, I found a way to spend no more than around $1000 every time I bought a new development machine. Except for the one time in 2008 where I started at the contract I currently have, and they spent close to $2000 on a maxed out (you guessed it) MacBook Pro, I have found that buying refurbished models and one-release-behind models can save you a lot of money and get you everything you need. And right now, in 2017, there is the added benefit that some of the new features are actually a detriment to the experience. the HDMI out - The new models no longer have an HDMI port. Yes you can have ANOTHER dongle to use a thunderbolt plug and convert it to HDMI, but I hate dongles and I really don't use that port much at all. It's just once in a while I like to plug in to my tv, and use the available HDMI port. It's just easy that that way.
+For about ten years, I found a way to spend no more than around $1000 every time I bought a new development machine. Except for the one time in 2008 where I started at the contract I currently have, and they spent close to $2000 on a maxed out (you guessed it) MacBook Pro, I have found that buying refurbished models and one-release-behind models can save you a lot of money and get you everything you need. And right now, in 2017, there is the added benefit that some of the new features are actually a detriment to the experience. For example: 
 
+* the new models no longer have an HDMI port. Yes you can have _ANOTHER_ dongle to use a thunderbolt plug and convert it to HDMI, but I hate dongles and I really don't use that port much at all. It's just once in a while I like to plug in to my tv, and use the available HDMI port. It's just easy that that way.
 * The touchpad - Force touch is just not something I care much about, on my phone I don't like it all, and on my trackpad I don't like it much either; so not having it on my laptop is a big plus;
 * The touchbar - as discussed above, the touchbar brings no value, and impacts battery life, so no thank you;
 * The keyboard - seems to be something that is less useful currently than in previous models.
