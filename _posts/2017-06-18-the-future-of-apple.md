@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T20:31:12.809Z'
-datePublished: '2017-06-18T20:31:13.643Z'
+dateModified: '2017-06-19T05:19:11.313Z'
+datePublished: '2017-06-19T05:19:11.912Z'
 title: The Future of Apple
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJxNUstu2zAQvOcrDB14c0TLttw4povmkj4QpICR9kgw5FIiTJEKuY7invIh7c_lS0LRDtA97c4uZwa73CjzPIl4tMDeXv8ivOBUWNO4tQSHEK7fXv9tLy42RgfRwXmwGIzCdj2raP9y3YJpWlxXi7EoJp0IjXF5gBX0oz4NZSDK4K01rmGF88Uk8z76oCCc2kGyoiyHOHXiUnTij3dToeIxInSX0ndlom4AY_n0eQfh2Uj4BSEa71hF6Yp-qipy7-D7js3IfQ9B4Ni6BfyivmJnyZ0Ie8CfVkhgDzsS_SGkTEgSQLMnzWPPRTSOo7FEKI7HHlgfvDpI5Mn0nmAQcp_cc6OYiK0VThk_rSjpMnOfmU--E2czqiedDHdpo-yG0tvq7mb14zcZheL_wCjwTbElpUJrWM2XVbXQs1mt54srvdRLoPSqVjWJrR_4eWcYDpAfct-Dizx5dzDwwTjlB6aFjUD6kNbEpbc-sHkOggbtB0RpXUtKHptzrXMU49nL0923mzJ9k-07nIrDQA
 sourcePath: _posts/2017-06-18-the-future-of-apple.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-18T19:48:33.737Z'
-_type: MediaObject
+url: the-future-of-apple/index.html
+_type: Article
 
 ---
 # The Future of Apple
