@@ -23,10 +23,7 @@ content: []
 title: long live the macbook pro
 description: and all things tech-related
 url: 'https://macbookpro.ist'
-purpose:
-  - type: internal
-    label: Father's Day DEALS
-    item: 2f2b8bde-859e-49f6-8f5e-ee84cfdf732f
+purpose: []
 analytics:
   google: UA-101080960-1
   twitter: ''
