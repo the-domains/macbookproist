@@ -23,7 +23,10 @@ content: []
 title: long live the macbook pro
 description: and all things tech-related
 url: 'https://macbookpro.ist'
-purpose: []
+purpose:
+  - type: internal
+    label: LATEST
+    item: 117fc288-4fa8-4e04-877f-12c82222405e
 analytics:
   google: UA-101080960-1
   twitter: ''
